@@ -70,6 +70,8 @@ Below are the steps for registering as a User:
 
 * If there are doctors found, you can see a list of with some information, else it shows **No Doctors Found**.
 
+![DoctorSearchResults](images/doc-search.png)
+
 
 
 
