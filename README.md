@@ -36,5 +36,26 @@ Below are the steps for registering as a User:
 * If any user registered with the same email before you register or if you're registering 2nd time with the same email, it shows **Email already Exists** error. So, make sure you enter your email correctly.
 
 
+## **Search-for-Doctors**
+
+* You can Search by the following details of thr doctors :
+
+  - **First Name** of the doctor
+
+  - **Last Name** of the doctor
+
+  - **Specialization** of the doctor
+
+  - **City** where the doctor works
+
+  - **State** where the doctor works 
+
+  - **Pincode** of the place where the doctor works
+
+
+
+
+
+
 
 
