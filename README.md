@@ -6,5 +6,5 @@ Below are the steps for registering as a User:
 
 1. From Main page,go to SignIn page.
 2. For Registering as a new User click SignUp 
-![](images/Signin.jpg)
+![](images/Signin.png)
 
