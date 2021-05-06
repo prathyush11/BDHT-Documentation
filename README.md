@@ -28,7 +28,9 @@ Below are the steps for registering as a User:
 
 8.Now, go to your registered mail you can find a mail from **jeevannakshawad** with a activation link for your account.
 
-9.Click on that link, now you are succesfully registered as a User and you will be sent back to the main page.  
+9.Click on that link, now you are succesfully registered as a User and you will be redirected to the main page with the message **Account Activated Succesfully** as shown below.
+
+![ConfirmMessage](images/confirm_message.png)
 
 ### **Below are the some of errors you can encounter when you register**
 1. If Password and Confirm Password are not same it will show **Passwords dont match** error. So make sure you enter the both passwords correctly.
