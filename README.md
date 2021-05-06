@@ -39,7 +39,7 @@ Below are the steps for registering as a User:
 * If any user registered with the same username before you register, it shows **UserName Already Exists**. So, Try with a different username.
 * If any user registered with the same email before you register or if you're registering 2nd time with the same email, it shows **Email already Exists** error. So, make sure you enter your email correctly.
 
-
+![UserRegistration](images/user_reg.gif)
 
 
 
