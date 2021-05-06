@@ -18,11 +18,15 @@ Below are the steps for registering as a User:
 ![User Form](images/user_form.png)
 
 5.In User Registration Form, Fill all the details asked in the form and make sure the requirements are fulfilled like in Password it should contain a Capital letter and some special characters.
+
 6.After filling all details required in the form click on Register Button.
+
 7.After registering successfully, you will redirect to the main page with a message showing **Activate your account after clicking the link sent to your mail** as shown below.
 
 ![message](images/message.png)
+
 8.Now, go to your registered mail you can find a mail from **jeevannakshawad** with a activation link for your account.
+
 9.Click on that link, now you are succesfully registered as a User and you will be sent back to the main page.  
 
 ### **Below are the some of errors you can encounter when you register**
