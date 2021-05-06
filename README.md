@@ -51,6 +51,32 @@ Below are the steps for registering as a User:
   - **State** where the doctor works 
 
   - **Pincode** of the place where the doctor works
+  
+![DoctorSearch](images/doctor_search_bar.png)
+
+* It is not necessary to know all the details listed above to search a Doctor.
+
+* You can search for a doctor/doctors by their first name or by their last name or City in which the doctor works.
+
+* You can also search for doctor/doctors through the Pincode of a place where the doctor works.
+
+* You can also see list of Doctors working in a particular state by selecting that state.
+
+* You can also see list of Doctors working in all States by selecting All option in search bar.
+
+* You can also search for a doctor by their Specialization.
+
+* After entering details in the doctor search bar click on **Search** Button which will redirect you to Doctor Search Results page.
+
+* If there are doctors found, you can see a list of with some information, else it shows **No Doctors Found**.
+
+
+
+
+
+
+
+
 
 
 
